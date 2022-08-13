@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Daniel-Ezekiel/Frontend-Mentor-Challenges/tree/main/ProductReviewCard
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://productprevcard.vercel.app/
 
 ### Built with
 
