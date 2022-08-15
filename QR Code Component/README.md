@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Daniel-Ezekiel/Frontend-Mentor-Challenges/tree/main/ProductReviewCard
-- Live Site URL: https://productprevcard.vercel.app/
+- Solution URL: https://github.com/Daniel-Ezekiel/Frontend-Mentor-Challenges/tree/main/QR%20Code%20Component
+- Live Site URL: https://qr-component-card.vercel.app/
 
 ### Built with
 
